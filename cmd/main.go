@@ -102,6 +102,3 @@ func restService() {
 	restDelivery.Hearing(app)
 }
 
-func testService() {
-
-}
