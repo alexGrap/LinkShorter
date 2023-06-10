@@ -23,9 +23,22 @@ make tests // запуск контейнера тестирования. Про
     grpc - localhost:8080
     rest - localhost:3000
 ```
+### Тестирование функицонала REST:
+#### Post:
+![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/1.jpg)
+#### Get:
+![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/2.jpg)
+
+### Тестирование функционала GRPC
+#### Post:
+![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/3.jpg)
+#### Get:
+![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/4.jpg)
+
+
 
 ## Запуск тестов:
 Контейнер тестрования производит тестрование фукнций генерации, записи и возвращения ссылок. Файл test.log, который после
 самостоятельной остановки работы контейнера находится в файлах контейнера test/test.log содержит 
 информацию о ходе выполнения тестов. 
-
+![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/5.jpg)
