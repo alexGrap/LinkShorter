@@ -29,7 +29,7 @@ make tests // запуск контейнера тестирования. Про
 #### Get:
 ![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/2.jpg)
 
-### Тестирование функционала GRPC
+### Тестирование функционала GRPC:
 #### Post:
 ![Image alt](https://github.com/alexGrap/OzonIntership/blob/main/readmeImages/3.jpg)
 #### Get:
