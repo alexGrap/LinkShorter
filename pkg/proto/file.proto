@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package api;
+
+service LinkChanger{
+  rpc Get(Request) returns (Response){}
+  rpc Post(Request) returns (Response){}
+}
+
+message Request{
+  string startLink = 1;
+}
+
+message Response{
+  string resultLink = 1;
+}
